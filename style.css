@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+}
+
+header a {
+    text-decoration: none;
+    color: black;
+    border-bottom: 3px solid black;
+    font-size: 24px;
+    margin: 30px;
+}
+
+header {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 40px;
+}
+
+main img {
+    border-left: 10px dotted black;
+    margin: 20px;
+}
+
+main {
+    text-align: center;
+}
+
+main p {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: left;
+    font-size: 18px;
+}
+
+footer {
+    background-color: black;
+    padding: 3px;
+} 
+
+footer p {
+    background-color: white;
+    padding: 5px;
+
+}
+
+
